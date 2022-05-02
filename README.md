@@ -1,7 +1,7 @@
 # DVP
-Digitalizace výuky programování - SOČ 2020/21 - účast v celostátním kole.
+Videokurz a sbírka úloh pro předmět programování - SOČ 2020/21 - účast v celostátním kole.
 
-Videa: https://www.youtube.com/watch?v=2fkQxtvY8NY&list=PL2DoEhR68PMHsLanBgsTWSX4A1EcLgR3O&ab_channel=Programov%C3%A1n%C3%ADnaArabsk%C3%A9
+Videokurz: https://www.youtube.com/watch?v=2fkQxtvY8NY&list=PL2DoEhR68PMHsLanBgsTWSX4A1EcLgR3O&ab_channel=Programov%C3%A1n%C3%ADnaArabsk%C3%A9
 Úlohy dostupné v souboru "moodleUlohy". Soubor je ve formátu zálohy Moodle kurzu. Je tedy potřeba mít vlastní Moodle instnaci.
 Odkaz na výsledkovou listinu: https://www.soc.cz/dokumenty/vysledkove_listiny/2020-21.pdf
 
